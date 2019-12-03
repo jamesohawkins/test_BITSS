@@ -11,3 +11,5 @@ Third edit that is local
 Fourth edit from the remote
 
 The last edit
+
+edits in master
