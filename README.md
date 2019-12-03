@@ -5,3 +5,5 @@ Test text **this bold** [text for link](https://github.com/jamesohawkins/test_BI
 Some edits that are local
 
 Second edit that is local
+
+Third edit that is local
