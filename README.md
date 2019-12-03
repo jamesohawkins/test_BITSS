@@ -7,3 +7,5 @@ Some edits that are local
 Second edit that is local
 
 Third edit that is local
+
+Fourth edit that is local
