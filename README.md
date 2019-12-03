@@ -8,4 +8,4 @@ Second edit that is local
 
 Third edit that is local
 
-Fourth edit that is local
+Fourth edit from the remote
