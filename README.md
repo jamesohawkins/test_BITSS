@@ -2,12 +2,10 @@
 
 Test text **this bold** [text for link](https://github.com/jamesohawkins/test_BITSS/edit/master/README.md)
 
-Some edits that are local
-
-Second edit that is local
-
-Third edit that is local
 
 Fourth edit from the remote
 
 The last edit
+
+
+edits on the branch
